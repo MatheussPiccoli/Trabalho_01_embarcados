@@ -21,13 +21,6 @@ O comportamento do sistema é baseado na distância entre o sensor e um objeto:
 - Protoboard
 - Jumpers
 
-## Estrutura do Repositório
-
-```text
-.
-├── sensorarduino.ino          # Código-fonte do Arduino
-└── prototipo.png        # Esquema do circuito montado
-
 Como Executar
 
 Clone este repositório:
@@ -56,3 +49,12 @@ Além disso, foi uma oportunidade para retomar conhecimentos adquiridos anterior
 Autor
 
 Matheus Piccoli
+
+## Estrutura do Repositório
+
+```text
+.
+├── sensorarduino.ino          # Código-fonte do Arduino
+└── prototipo.png        # Esquema do circuito montado
+
+
